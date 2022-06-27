@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    color: blueviolet;
+}
+#para1{
+    text-align: justify;
+    font-size: 20px;
+    border: 5px hidden black;
+    padding: 30px 130px 10px 130px;
+}
+#para2{
+    text-align: justify;
+    font-size: 20px;
+    border: 5px hidden black;
+    padding: 10px 130px 10px 130px;
+}
+#what{
+    color: rgba(15, 56, 236, 0.829);
+    padding: 10px 10px 0px 130px;
+}
+#steps{
+    padding: 0px 10px 10px 170px;
+}
+img{
+    padding: 20px 50px 0px 220px;
+}
+#hajj-link{
+    padding: 0px 50px 0px 220px;
+}
+#hajj-pic{
+    color: rgba(235, 76, 36, 0.993);
+    padding: 10px 0px 0px 70px;
+}
+#pictures{
+   tab-size: 50%;
+    
+}
